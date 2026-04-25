@@ -1,0 +1,33 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build folders
+bin/
+obj/
+
+# NuGet
+packages/
+*.nupkg
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Rider / VS Code (ako koristiš)
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
